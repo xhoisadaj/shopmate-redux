@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+Check out the live demo [here](https://shopmate-redux-xhoi.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
